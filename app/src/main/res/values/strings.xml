@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">my_first_app_kotlin</string>
+    <string name="Hello_world">Hello Wolrd</string>
+
+</resources>
